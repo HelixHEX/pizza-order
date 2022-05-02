@@ -49,7 +49,7 @@ const App = () => {
           rounded={10}
           bg="white"
           alignSelf={"center"}
-          w={[200, 450, 600, 800]}
+          w={[300, 400, 550, 600, 800]}
           minH={380}
           h='auto'
         >
